@@ -18,7 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"welcome to github sample repo");
-    
+    NSLog(@"hi ambica");
     NSLog(@"sharing code");
     // Do any additional setup after loading the view, typically from a nib.
 }
